@@ -1,0 +1,23 @@
+ <td></td>Smoke House Deli<td>American</td></tr>
+ <td></td>The Food Studio<td>IIndian, Thai, Grill</td></tr>
+ <td></td>Sahara Hotel<td>Mughlai , Chinese </td></tr>
+ <td></td>Mirchi And Mine'<td>Indian, Grill</td></tr>
+ <td></td>Persian Darbar Bandra<td>Asian, Indian, Middle</td></tr>
+ <td></td>Janta<td>Asian, Indian, Middle</td></tr>
+ <td></td>Hotel Bombay Skyway<td>Mughlai , Chinese </td></tr>
+ <td></td>Naaz Hotel<td>Mughlai , Chinese </td></tr>
+ <td></td>Mughal Dhaba<td>Mughlai , Chinese </td></tr>
+ <td></td>Hotel Sunlight<td>Mughlai , Chinese </td></tr>
+ <td></td>Delux Restraunt<td>Mughlai , Chinese</td></tr>
+ <td></td>Hakkasan<td>Chinese</td></tr>
+ <td></td>Fresh Catch<td>SeaFood</td></tr>
+ <td></td>Gajalee<td>SeaFood</td><td> 9.12E+11</td></tr>
+ <td></td>Modern<td>SeaFood</td></tr>
+ <td></td>Fish Land Hotel <td>SeaFood</td></tr>
+ <td></td>Mom's Kitchen<td>Chinese</td></tr>
+ <td></td>Imperial China<td>Chinese</td></tr>
+ <td></td>Copper Chimney<td>Indian, Grill</td></tr>
+ <td></td>Kebabas N Curries<td>Indian, Grill</td></tr>
+ <td></td>Prema Vihar<td>Indian, Grill</td></tr>
+ <td></td>Delhi Darbar<td>Indian, Chinese Mughlai</td></tr>
+ <td></td>Barbeque Nation<td>Barbecue, Chinese, Indi</td></tr>
